@@ -73,19 +73,19 @@ These three reasons especially the last one is the reason to compress the image.
 
 ## Output:
 Using conv2d network with 3 convolutional layers
-![](car_bw.png)
+![](images/car_bw.png)
 
 Using conv2d network with 50 steps per epoch and 1 epochs
-![](car_mask.png)
+![](images/car_mask.png)
 
 Using conv2d network with 10 steps per epoch and 100 epochs
-![](car_mask2.png)
+![](images/car_mask2.png)
 
 Using 50 steps per epoch and 10 epochs
 
-![](car_mask3.png)
+![](images/car_mask3.png)
 
-![](car_mask4.png)
+![](images/car_mask4.png)
 
 ## Accuracy:
 An accuracy of 91.23% was obtained on the last model.
